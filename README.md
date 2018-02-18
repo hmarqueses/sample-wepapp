@@ -1,6 +1,9 @@
-V1.0
+V2.0
 ----------------------------------------------------
+changes v2.0
+	* now capable of serving multiple users.
 
+----------------------------------------------------
 # sample-wepapp
 A sample web app to demonstrate how I code.
 
