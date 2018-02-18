@@ -5,4 +5,5 @@ More information to follow, please visit frequently.
 
 Gavin learned how to open window blinds.
 
-get teddy bear.
+* get teddy bear.
+* get box.
